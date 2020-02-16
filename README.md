@@ -9,4 +9,4 @@ Code for AIY Vision face tracking eye mechanism
   
   Camera_Preview_Image_Overlay is a live camera feed with a crosshair - used with laser eyes to calibrate servo values in Serial_Servo_Control_Adv
   
-  Crosshair_Black.png is used by Camera_Preview_Image_Overlay to create a crosshairs over the image
+  Crosshair_Black.png is used by Camera_Preview_Image_Overlay to create a crosshairs over the camera feed.
