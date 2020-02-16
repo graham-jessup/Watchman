@@ -11,5 +11,5 @@ Code for AIY Vision face tracking eye mechanism
   
   Crosshair_Black.png is used by Camera_Preview_Image_Overlay to create a crosshairs over the camera feed.
 
-![Image description](Watchman Internals with Labels.png)
+![Image description](Watchman_Internal_Labels.png)
 
