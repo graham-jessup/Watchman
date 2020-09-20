@@ -4,6 +4,8 @@ Code for AIY Vision face tracking eye mechanism
 ### Arduino
   Arduino .ino files run on the Arduino Uno with and Adafruit 16 channel servo shield (https://www.adafruit.com/product/1411)
 
+![Image description](Wiring Diagram Arduino.png)
+
 ### Python/Raspberry Pi
   Eye_Mechanism_Serial_Adv runs on the Raspberry pi with AIY Vision hat. This does the face-tracking heavy lifting.
   
